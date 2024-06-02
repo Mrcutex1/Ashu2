@@ -34,12 +34,12 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "7137269276",
+        "value": "5536304787",
         "required": true
       },
     "OWNER": {
         "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "2105971379",
+        "value": "5605826172",
         "required": true
       },
     "GBAN_LOGS": {
@@ -60,17 +60,17 @@
       },
      "OWNER_USERNAME": {
         "description": "Add owner username without @",
-        "value": "New_AMBOT",
+        "value": "@Saykkuno",
         "required": true
       },
      "SUPPORT_CHANNEL": {
         "description": "Add channel link",
-        "value": "https://t.me/SuperBanSBots",
+        "value": "https://t.me/Saykkunomusic",
         "required": true
       },
         "SUPPORT_CHAT": {
         "description": "Add Chat group & support group Link",
-        "value": "https://t.me/+jCS-YsVBVEE3NjQ1",
+        "value": "https://t.me/ashxmusic",
         "required": true
       },
       "STRING_SESSION": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/AbhiModszYT/AnieXEricaMusic",
+        "value": "https://github.com/aashuxxD/AnieXEricaMusic",
         "required": false
       },
       "UPSTREAM_BRANCH": {
