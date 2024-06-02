@@ -44,23 +44,27 @@
       },
     "GBAN_LOGS": {
         "description": "Logger group id add also",
-        "value": "-1002046393302",
+        "value": "-1002104057748",
         "required": true
       },
     "GCAST_USERS": {
         "description": "Gcast Users Only use Like : 5916859256 5916859256",
-        "value": "7045191057 2105971379",
+        "value": "5605826172",
         "required": true
       },
-    
+    "LOGGER_ID": {
+        "description": "Logger group id",
+        "value": "-1002167077249",
+        "required": true
+      },
     "BOTADDLOGS": {
         "description": "Logger group id add also",
-        "value": "-1001971806089",
+        "value": "-1002167077249",
         "required": true
       },
      "OWNER_USERNAME": {
         "description": "Add owner username without @",
-        "value": "@Saykkuno",
+        "value": "Saykkuno",
         "required": true
       },
      "SUPPORT_CHANNEL": {
