@@ -48,7 +48,7 @@
         "required": true
       },
     "GCAST_USERS": {
-        "description": "Gcast Users Only use Like : 5916859256 5916859256",
+        "description": "Gcast Users Only",
         "value": "5605826172",
         "required": true
       },
@@ -109,17 +109,17 @@
       },
       "START_IMG_URL": {
         "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "https://telegra.ph/file/98ad59acf211b8f2a8539.png",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "https://telegra.ph/file/98ad59acf211b8f2a8539.png",
         "required": false
       },
       "STATS_IMG_URL": {
         "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "https://telegra.ph/file/98ad59acf211b8f2a8539.png",
         "required": false
       },
       "LOGGER_ID": {
